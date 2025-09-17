@@ -1,3 +1,3 @@
-<h1>Hi there 👋. I am Sameer Shahzad</h1>
-<h2>Full Stack Django Developer</h2>
+ <h1 align="center">Hi 👋, I'm Sameer Shahzad</h1>
 
+ <h2 align="center">Full Stack Developer</h2>
