@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer-shahzad&show_icons=true&locale=en" alt="sameer-shahzad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-shahzad&" alt="sameer-shahzad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-shahzad" alt="sameer-shahzad" /></p>
