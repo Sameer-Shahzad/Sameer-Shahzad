@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sameershahzad835@gmail.com**
 
-- 📄 Know about my experiences xIntern @Nexium & DevelopersHub.co
+- 📄 Know about my experiences xIntern @DevelopersHub.co & @Nexium  
 
 - ⚡ Fun fact **I am a pro Cricket Player**
 
