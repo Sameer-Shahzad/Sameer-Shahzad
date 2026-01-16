@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences xIntern @DevelopersHub.co & @Nexium  
 
-- ⚡ Fun fact **I am a pro Cricket Player**
+- ⚡ Fun fact **I am a pro Cricket and PubgG Player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
