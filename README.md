@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" width="600px">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" width="100%" alt="Security Testing in Action">
+</div>
 <h1 align="center">Hi 👋, I'm Sameer Shahzad</h1>
 <h3 align="center">A passionate Full Stack Developer and Ethical Hacker/Web Application Penetration Tester</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
