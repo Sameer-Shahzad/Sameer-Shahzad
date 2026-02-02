@@ -1,3 +1,4 @@
+<a href="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif">
 <h1 align="center">Hi 👋, I'm Sameer Shahzad</h1>
 <h3 align="center">A passionate Full Stack Developer and Ethical Hacker/Web Application Penetration Tester</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
