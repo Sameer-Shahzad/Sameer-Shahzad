@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer-shahzad&label=Profile%20views&color=0e75b6&style=flat" alt="sameer-shahzad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameer-shahzad" alt="sameer-shahzad" /></a> </p>
+
 
 - 🔭 I’m currently working on [Django Ecommerce](https://github.com/Sameer-Shahzad/django-ecommerce)
 
