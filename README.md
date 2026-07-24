@@ -176,7 +176,8 @@
 </div>
 
 
-## Contributions
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20%26%20Nature/Seedling.png" width="45" />
+Contributions
 <img src="https://raw.githubusercontent.com/Sam33r-Shahzad/Sam33r-Shahzad/output-pacman/pacman-contribution-graph-dark.svg">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
