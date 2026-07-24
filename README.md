@@ -176,7 +176,7 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="45" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="45" />
 Contributions
 <img src="https://raw.githubusercontent.com/Sam33r-Shahzad/Sam33r-Shahzad/output-pacman/pacman-contribution-graph-dark.svg">
 
