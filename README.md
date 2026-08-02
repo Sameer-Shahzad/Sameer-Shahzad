@@ -133,7 +133,7 @@
 <td align="center">
 <img src="https://img.shields.io/badge/BEYOND_THE_KEYBOARD-7C3AED?style=for-the-badge">
 </td>
-<td><i>Professional Cricket Player • Competitive PUBG Player • English & Urdu Calligraphy</i></td>
+<td><i>Professional Cricket Player • PUBG Mobile Competitive TDM Player • English & Urdu Calligraphy</i></td>
 </tr>
 
 </table>
