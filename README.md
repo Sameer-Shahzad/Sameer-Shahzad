@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-![header](https://itextglow.vercel.app/api/banner?text=Sam33r-Shahzad&sub=%5BWeb+Penetration+Tester+%E2%9A%A1+LLM+Engineer+%E2%9A%A1+Web+Developer%5D&font=Press+Start+2P&bg1=0a0015&bg2=1e0030&t1=e040fb&t2=7c4dff&sc=a877b1&size=50&subsize=13&width=960&align=center&transparent=0&pattern=dots&patcolor=ffffff&patop=10&animate=glow&shadow=000000&shadowblur=3&shadowx=0&shadowy=3)
+![header](https://itextglow.vercel.app/api/banner?text=Sameer-Shahzad&sub=%5BWeb+Penetration+Tester+%E2%9A%A1+LLM+Engineer+%E2%9A%A1+Web+Developer%5D&font=Press+Start+2P&bg1=0a0015&bg2=1e0030&t1=e040fb&t2=7c4dff&sc=a877b1&size=50&subsize=13&width=960&align=center&transparent=0&pattern=dots&patcolor=ffffff&patop=10&animate=glow&shadow=000000&shadowblur=3&shadowx=0&shadowy=3)
 
 > *In memory of my dear friends, **Stack Overflow**, **GeeksforGeeks** & **W3Schools** — I'll miss them.*
 
